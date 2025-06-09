@@ -10,7 +10,7 @@ This project is a redesign of the "Choose your skip size" page from WeWantWaste.
 - Responsive Layout (Mobile + Desktop)
 
 ## 🔗 Live Demo
-👉 [View on CodeSandbox](https://codesandbox.io/...)
+👉 [View on CodeSandbox](https://codesandbox.io/p/sandbox/p8vpnt)
 
 ## 📁 How to Run
 ```bash
